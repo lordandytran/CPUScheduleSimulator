@@ -1,0 +1,25 @@
+Longest Job First Algorithm: 
+
+Process	Burst Time	Arrival Time
+15	97		8
+7	96		7
+9	86		17
+10	84		12
+4	80		15
+3	73		1
+5	70		2
+8	65		6
+12	60		3
+6	53		4
+18	47		5
+11	46		16
+2	46		14
+13	30		18
+19	29		10
+0	22		19
+1	21		13
+14	17		0
+17	5		11
+16	5		9
+
+Average wait time: 51.35ms
