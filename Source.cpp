@@ -24,7 +24,7 @@ void roundRobin(CPUEvent *, int);
 void eventpriority(CPUEvent*);
 //SJF Algorithm
 void shortestJobFirst(CPUEvent*);
-//Thread Schedule Algorithm
+//LJF Algorithm
 void longestJobFirst(CPUEvent*);
 
 
