@@ -22,4 +22,5 @@ Source.cpp
 - Main function. Contains the algorithms used for scheduling
 - Creates an array of CPU events to schedule
 - Goes thorugh 5 algorithms and outputs to txt files
+- Text files created in CPUScheduleSimulator directory
 - Simulates the order that the processes are scheduled and the average wait time
